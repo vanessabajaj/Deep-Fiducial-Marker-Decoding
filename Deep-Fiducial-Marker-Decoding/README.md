@@ -2,7 +2,7 @@
 
 A diagnostic study of how a published learned ArUco decoder, the DeepArUco++ decoder (Berral Soler et al., Image and Vision Computing 2024), reads markers that are partly covered. All experiments run in Google Colab notebooks N0 to N17. Every notebook in this repository is saved with its outputs, so the numbers can be read without running anything.
 
-The full write up is in [`report/Project2_Technical_Report_v5.pdf`](report/Project2_Technical_Report_v5.pdf). Every number the notebooks saved, N0 to N17, is collected in [`results/all_results.xlsx`](results/all_results.xlsx) (28 sheets; N17 is in `n17_dev_and_heldout`).
+The full write up is in [`report/Project2_Technical_Report_v6.pdf`](report/Project2_Technical_Report_v6.pdf). Every number the notebooks saved, N0 to N17, is collected in [`results/all_results.xlsx`](results/all_results.xlsx) (28 sheets; N17 is in `n17_dev_and_heldout`).
 
 ## Main findings
 
